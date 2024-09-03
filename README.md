@@ -14,4 +14,11 @@ Welcome to the Retrieval Augmented Generation (RAG) Book! This open-source book 
 7. [Challenges and Future Directions](challenges_future.md)
 8. [Resources and Further Reading](resources.md)
 
-Chapters coming soon!!
+
+## RAG Libraries
+[Graphrah](https://github.com/microsoft/graphrag)  
+[Neo4J Graph Builder](https://llm-graph-builder.neo4jlabs.com/)
+
+## Advanced RAG
+[RAFT - Retreival Augmented Fine Tuning](https://github.com/ShishirPatil/gorilla/tree/main/raft)  
+[GRITLM - Joint Embedding and RAG Fine Tuning](https://github.com/ContextualAI/gritlm)
